@@ -1,1 +1,1 @@
-"# discord-bot-core" 
+# discord-bot-core
